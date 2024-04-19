@@ -208,10 +208,4 @@ This similar method performs the desired operations with only a slight change.
 We have created a method to do the latest scissors related operations. If the scissors prevail, our score will increase by 1 if
 If the value of the computer wins, the value of the computer will increase by 1. The result will not change if we have equal options.
 
- <br>
-
-## Application Demo 📸
-
-
- <br>
  
