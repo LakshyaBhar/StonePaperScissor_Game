@@ -30,9 +30,6 @@ is as follows:
 
 ## Screen Design 📱
 
-<p>
-  <img src="pic1.png" width="300" >
-</p>
 
 We used various structures in screen design. 3 buttons were used. Other remaining structures are label elements.
 It was designed with a label, with fields where values are updated in cases of gain or loss.
@@ -50,9 +47,7 @@ We are now linking the designed codes in the ```ViewController.swift``` file:
  We are editing the codes we have written with a new usage style. Defined structures are variables, definitions
  and button operations. We will be able to navigate easily within the project as follows:
  
- <p>
-  <img src="Screen%20Shot%202018-07-22%20at%2011.27.02%20PM.png" >
-</p>
+
 
 <br>
 
@@ -217,10 +212,6 @@ If the value of the computer wins, the value of the computer will increase by 1.
 
 ## Application Demo 📸
 
-
-<img src="https://github.com/halilozel1903/StonePaperScissorsGame/blob/master/res1.png" width="200" />  <img src="https://github.com/halilozel1903/StonePaperScissorsGame/blob/master/res2.png" width="200" />  <img src="https://github.com/halilozel1903/StonePaperScissorsGame/blob/master/res3.png" width="200" />
-
-  <img src="res4.png" width="200" />  <img src="res5.png" width="200" /> <img src="res6.png" width="200" />
 
  <br>
  
