@@ -33,9 +33,6 @@ is as follows:
 
 We used various structures in screen design. 3 buttons were used. Other remaining structures are label elements.
 It was designed with a label, with fields where values are updated in cases of gain or loss.
-You can find the pictures used in the background of the buttons in the following file:
-
-https://github.com/halilozel1903/StonePaperScissorsGame/tree/master/TasKagitMakas/TasKagitMakas/Assets.xcassets
 
 We are now linking the designed codes in the ```ViewController.swift``` file:
 
